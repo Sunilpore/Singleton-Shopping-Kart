@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Cartadd.iml" filepath="$PROJECT_DIR$/Cartadd.iml" />
-      <module fileurl="file://C:\Users\Sith7\Desktop\GitHub\Shopping-Kart-using-Fragment\Cartadd\Cartadd.iml" filepath="C:\Users\Sith7\Desktop\GitHub\Shopping-Kart-using-Fragment\Cartadd\Cartadd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Sith7/Desktop/GitHub/Shopping-Kart-using-Fragment/Cartadd/Cartadd.iml" filepath="$PROJECT_DIR$/../../../../../Sith7/Desktop/GitHub/Shopping-Kart-using-Fragment/Cartadd/Cartadd.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\Sith7\Desktop\GitHub\Shopping-Kart-using-Fragment\Cartadd\app\app.iml" filepath="C:\Users\Sith7\Desktop\GitHub\Shopping-Kart-using-Fragment\Cartadd\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Sith7/Desktop/GitHub/Shopping-Kart-using-Fragment/Cartadd/app/app.iml" filepath="$PROJECT_DIR$/../../../../../Sith7/Desktop/GitHub/Shopping-Kart-using-Fragment/Cartadd/app/app.iml" />
     </modules>
   </component>
 </project>
